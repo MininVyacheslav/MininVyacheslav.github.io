@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcb614a8.css",
+    "main.js": "/static/js/main.63789c17.js",
+    "static/media/Gropled-Bold.otf": "/static/media/Gropled-Bold.0564daccf95ed0e46b95.otf",
+    "static/media/button_download.svg": "/static/media/button_download.489746eb0b7eb57430008cbee757e345.svg",
+    "static/media/dir.svg": "/static/media/dir.8d78081cc0d0736dc12d5b031b299702.svg",
+    "static/media/navbar-logo.svg": "/static/media/navbar-logo.a1306aaf7c814b38f82342510b6ed9a7.svg",
+    "index.html": "/index.html",
+    "static/media/button_delete.svg": "/static/media/button_delete.d434daa5bb9076af7ed0f9a918591f13.svg",
+    "static/media/file.svg": "/static/media/file.8524462869148b4f9cf91bcf27aba24c.svg",
+    "static/media/button_back.svg": "/static/media/button_back.fbc25d4c06de15effc54d8be8cf2f636.svg",
+    "main.dcb614a8.css.map": "/static/css/main.dcb614a8.css.map",
+    "main.63789c17.js.map": "/static/js/main.63789c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb614a8.css",
+    "static/js/main.63789c17.js"
+  ]
+}
